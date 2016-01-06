@@ -1,0 +1,37 @@
+h2.flashy {
+  font-size: 30px;
+  color: #cb7375;
+  font-family: sans-serif;
+  font-style: italic;
+
+}
+
+h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  color: #a8c093;
+  text-align: center;
+}
+
+.img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+.list {
+  font-style: italic;
+}
+
+.best {
+  width: 50%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
